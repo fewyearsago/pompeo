@@ -351,4 +351,7 @@
   .store__btn-el {
     padding: 12px 22px;
   }
+  .products__item {
+    min-width: 100%;
+  }  
 }
