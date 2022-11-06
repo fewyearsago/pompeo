@@ -114,7 +114,7 @@ a {
   background-image: url(../img/background.png);
   background-repeat: no-repeat;
   background-size: cover;
-  min-height: calc(100vh - 92px);
+  height: 100vh;
 }
 .content__inner {
   display: flex;
